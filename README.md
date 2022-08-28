@@ -1,4 +1,4 @@
-# anelise-cafe-website
+# Anelise Cafe Website
 Website of a coffee shop and sell products related, including blogs on the topic.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/SergioLuisCardoso/README-template?style=for-the-badge)
@@ -8,3 +8,10 @@ Website of a coffee shop and sell products related, including blogs on the topic
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/SergioLuisCardoso/README-template?style=for-the-badge)
 
 <img src="./assets/anelise-café-website-folder.png" alt="exemplo imagem">
+
+
+## 📝 Licença
+
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+
+[⬆ Voltar ao topo](#anelise-cafe-website)<br>

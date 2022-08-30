@@ -22,7 +22,7 @@
   <img width="48" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" alt="rider-logo"/>
 </p>
 ## 🔗 Acesse o website
-    https://bit.ly/3cvjFqV
+https://bit.ly/3cvjFqV
 
 ## 📝 Licença
 

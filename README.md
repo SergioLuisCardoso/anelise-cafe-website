@@ -8,6 +8,11 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/SergioLuisCardoso/README-template?style=for-the-badge)
 
+## 💻 Tecnologias utilizadas
+
+* HTML
+* CSS
+* Javascript
 ## 🔗 Acesse o website
 https://bit.ly/3cvjFqV
 

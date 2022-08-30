@@ -4,7 +4,7 @@
 
 <img src="./assets/anelise-café-website-folder.png" alt="Anelise Cafe Website - Página Inicial">
 
-> O projeto Anelise Cafe  Website, foi desenvolvido com tecnologia responsiva, focando em capacidade de se adaptar ao layout e todo o seu conteúdo ao ambiente de acesso do usuário, independente do dispositivo eletrônico utilizado.
+> O projeto Anelise Cafe  Website, foi desenvolvido com tecnologia responsiva, focado na capacidade em se adaptar ao layout e todo o seu conteúdo ao ambiente de acesso do usuário, independente do dispositivo eletrônico utilizado.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/SergioLuisCardoso/README-template?style=for-the-badge)
 
@@ -16,7 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 
 
-## Ferramentas de desenvolvimento
+## 🛠 Ferramentas de desenvolvimento
 <p display="inline-block">
   <img width="40" src="https://static.wikia.nocookie.net/logopedia/images/e/ec/Microsoft_Visual_Studio_2022.svg" alt="vs-logo"/>
   <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode-logo"/>

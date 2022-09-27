@@ -40,8 +40,7 @@ Idealizador do projeto:
           <b>Sergio Cardoso</b>
         </sub>
       </a>
-    </td>
-    
+    </td>    
   </tr>
 </table>
 

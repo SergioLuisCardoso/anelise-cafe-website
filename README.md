@@ -4,7 +4,7 @@
 
 <img src="./assets/anelise-café-website-folder.png" alt="Anelise Cafe Website - Página Inicial">
 
-> O projeto Anelise Cafe  Website, foi desenvolvido com tecnologia responsiva, focado na capacidade em se adaptar ao layout e todo o seu conteúdo ao ambiente de acesso do usuário, independente do dispositivo eletrônico utilizado.
+> O projeto Anelise Café  Website, foi desenvolvido com tecnologia responsiva, focado na capacidade em se adaptar ao layout e todo o seu conteúdo ao ambiente de acesso do usuário, independente do dispositivo eletrônico utilizado.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 

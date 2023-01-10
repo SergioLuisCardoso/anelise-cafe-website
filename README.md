@@ -2,7 +2,7 @@
 
 
 
-<img src="./assets/anelise-café-website-folder.png" alt="Anelise Cafe Website - Página Inicial">
+<img src="./assets/anelise-café-website-folder.png" alt="Anelise Café Website - Página Inicial">
 
 > O projeto Anelise Café  Website, foi desenvolvido com tecnologia responsiva, focado na capacidade em se adaptar ao layout e todo o seu conteúdo ao ambiente de acesso do usuário, independente do dispositivo eletrônico utilizado.
 

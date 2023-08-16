@@ -44,7 +44,7 @@ Idealizador do projeto:
   </tr>
 </table>
 
-## 📝 Licença
+### 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
